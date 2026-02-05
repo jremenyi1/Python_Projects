@@ -1,7 +1,11 @@
 # Product Sales Analysis
 
 ## Overview
-
+6 weeks ago, a new product was launched, a new line of office stationery. Our main focus is selling this new product. 
+Since the way consumers buy new product is changing our sales tactics have to change too, and the executive team want to know the differences of the sales using 3 different sales strategies:
+- **Email:** Customers in this group received an email when the product line was launched, and a further email three weeks later. This required very little work for the team.
+- **Call:** Customers in this group were called by a member of the sales team. On average members of the team were on the phone for around thirty minutes per customer.
+- **Email and call:** Customers in this group were first sent the product information email, then called a week later by the sales team to talk about their needs and how this new product may support their work. The email required little work from the team, the call was around ten minutes per customer.
 
 ## Aim
 - How many customers were there for each approach?

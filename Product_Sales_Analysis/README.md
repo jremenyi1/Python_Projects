@@ -8,10 +8,10 @@ Since the way consumers buy new product is changing our sales tactics have to ch
 - **Email and call:** Customers in this group were first sent the product information email, then called a week later by the sales team to talk about their needs and how this new product may support their work. The email required little work from the team, the call was around ten minutes per customer.
 
 ## Aim
-- How many customers were there for each approach?
-- What does the spread of the revenue look like overall? And for each method?
-- Was there any difference in revenue over time for each of the methods?
-- Based on the data, which method would you recommend we continue to use? Some of these methods take more time from the team so they may not be the best for us to use if the results are similar.
+- Identify differences in customer sales based on sales method used.
+- Three sales methods used: email, call, email and call.
+- Check for differences in customer numbers, total revenue, and revenue over time.
+- Determine an optimal sales method to use in the future.
 
 ## Data Validation:
 ### Describe validation and cleaning steps for every column in the data

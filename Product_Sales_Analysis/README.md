@@ -87,5 +87,11 @@ It should be noted that three times more customers are in the email group than i
 - Investigate the effect of the location of the customers
 Preliminary data analysis for opening up some more context for further data collection Majority of customers buy between 7-13 numbers of new products.
 
+<img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/57165712-7c5e-451d-9bbf-bb5c09aa81a0" />
+
+It is thought the number of website visit can associate with the amount of total revenue. Therefore, the effect of number of website visit for total revenue change is analysed on the line graph below, the data is segregated by sales methods.
+
+<img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/7e55c241-a0d9-46be-bce6-7270e47545bd" />
+
 
 

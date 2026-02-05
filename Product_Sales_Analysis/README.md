@@ -35,4 +35,5 @@ Based on the sales records from the last 6 weeks, the number of successful sales
 
 ## What does the spread of the revenue look like overall? And for each method?
 Overall distribution of the Revenue by Sale according to number of customers shows 5 peaks. Majority of revenue per sale was under 120 USD.
+<img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/7974d59d-36f0-4eca-beed-2901cae40575" />
 

@@ -30,3 +30,9 @@ After the data validation, the dataset contains 13924 rows and 8 columns without
 - **call:** Customers in this group were called by a member of the sales team. On average members of the team were on the phone for around thirty minutes per customer.
 - **email and call:** Customers in this group were first sent the product information email, then called a week later by the sales team to talk about their needs and how this new product may support their work. The email required little work from the team, the call was around ten minutes per customer.
 <img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/b8901b75-995b-4246-b439-5cd05d8acbe5" />
+
+Based on the sales records from the last 6 weeks, the number of successful sales by call was almost twice as much than combination of email and call strategy. The successful sales in the email group was almost three times more than in the combination of email and call strategy.
+
+## What does the spread of the revenue look like overall? And for each method?
+Overall distribution of the Revenue by Sale according to number of customers shows 5 peaks. Majority of revenue per sale was under 120 USD.
+

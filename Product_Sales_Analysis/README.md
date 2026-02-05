@@ -35,5 +35,17 @@ Based on the sales records from the last 6 weeks, the number of successful sales
 
 ## What does the spread of the revenue look like overall? And for each method?
 Overall distribution of the Revenue by Sale according to number of customers shows 5 peaks. Majority of revenue per sale was under 120 USD.
+
 <img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/7974d59d-36f0-4eca-beed-2901cae40575" />
+
+Distinct peaks and distributions can be observed when overall distribution is segregated by Sales Methods.
+
+<img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/c0bdd8b7-fec9-4ca3-8b60-dd3c4f5d5315" />
+
+Based on the graph, people tend to spend more on the new product if they were contacted by email or the combination of email and call. It should be noted that total revenue by sales method can be different.
+
+<img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/1d014395-7a32-4cf0-94c1-d23d20db461e" />
+
+On the boxplots above, we can see that the ranges of revenue by sale data are clearly different by sales methods. A clear trend can be seen: email and call combination results in ~180 USD mean revenue by sale, followed by the email strategy with ~95 USD mean revenue by sale. The call sales method produces the least mean revenue per sale with ~50 USD.
+
 

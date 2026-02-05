@@ -59,17 +59,17 @@ Total Revenue from week to week by sales method is shown on the line graph below
 
 <img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/cdeb6042-0a42-4458-8df2-f9a096c689fc" />
 
-Email results in high (~230000 USD) total revenue on the 1st week, then decreasing weekly revenue until the second email was sent out (~98000 USD) on 3rd week. Then we observe a small increase in the revenue (~105000 USD) at week 4, but finally the revenue dropped to a new low point (~24000 USD) by the end of week 6. So the weekly revenue decreased ~90% from week 1 to week 6.
+**Email** results in high (~230000 USD) total revenue on the 1st week, then decreasing weekly revenue until the second email was sent out (~98000 USD) on 3rd week. Then we observe a small increase in the revenue (~105000 USD) at week 4, but finally the revenue dropped to a new low point (~24000 USD) by the end of week 6. So the weekly revenue decreased ~90% from week 1 to week 6.
 
-Call sales method produces similar revenue throughout the 6 weeks. The weekly revenue is low compared to the other two methods. The 1st week is low (~26000 USD), then slowly increased to reach its peak at the week 5 (~54000 USD), then decreased by the end of week 6 (~28000 USD).
+**Call sales method** produces similar revenue throughout the 6 weeks. The weekly revenue is low compared to the other two methods. The 1st week is low (~26000 USD), then slowly increased to reach its peak at the week 5 (~54000 USD), then decreased by the end of week 6 (~28000 USD).
 
-Email and call combination generates low total revenue (~17000 USD) in the 1st week but increases in weekly total revenue until week 6 (~110000 USD). This is the only sales method which results in an increase (~75%) in the total revenue from week 1 to week 6.
+**Email and call combination** generates low total revenue (~17000 USD) in the 1st week but increases in weekly total revenue until week 6 (~110000 USD). This is the only sales method which results in an increase (~75%) in the total revenue from week 1 to week 6.
 
 It should be noted that three times more customers are in the email group than in the combination of email and call group.
 
 ## Based on the data, which method would you recommend we continue to use? Some of these methods take more time from the team so they may not be the best for us to use if the results are similar.
 ## Business Metrics
-- Since our goal is to increase the revenue with selling a new product, I would recommend to use the percentage of revenue change of our new product week by week through the last 6 weeks as our metric.
+- Since our goal is to increase the revenue with selling a new product, I would recommend to use the **percentage of revenue change** of our new product week by week through the last 6 weeks as our metric.
 - Based on our last 6 weeks data, we increased the revenue by ~ 75 % from week 1 to week 6 using the combination of email and call sales method – the highest increase out of the sales methods. 
 - Metric indicates that the email and call sales method is the most effective to achieve our goal with least amount of effort from our colleagues.
 
@@ -79,6 +79,7 @@ It should be noted that three times more customers are in the email group than i
 - Using key metrics to monitor sales for another 6 weeks.
 - Contact customers by short call if the revenue starts to fall.
 - Monitor the sales attempt to find the success rate by each sales method.
+  
 *In-depth analysis of some other factors are worth to consider based on preliminary data (can be seen below):*
 
 - Study the effect of the number of website visit for the revenue

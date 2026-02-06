@@ -97,5 +97,8 @@ It is thought the number of website visit can associate with the amount of total
 
 <img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/7e55c241-a0d9-46be-bce6-7270e47545bd" />
 
-
+## Files in This Repository
+- Jupyter Notebook - notebook.ipynb
+- raw data - product_sales.csv
+- png_images folder - it contains all images
 

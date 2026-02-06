@@ -1,6 +1,6 @@
 # Analyzing Crime in Los Angeles
 
-## Backround
+## Backround Information
 Los Angeles, California, attracts people from all over the world, offering lots of opportunities, not always of the good kind! It is highly populated city, and it is not always glamorous and there can be a large volume of crime.
 
 ## Data

@@ -4,7 +4,7 @@
 In this project, my main focus was to store the data much more efficiently, so you can create a model that predicts if course enrollees are looking for a job. I converted data types, created ordered categories, and filtered ordered categorical data to prepare it for modeling.
 
 ## Data
-
+- raw data - customer_train.csv
 
 ## Aim
 The Head Data Scientist at Training Data Ltd. has asked you to create a DataFrame called ds_jobs_transformed that stores the data in customer_train.csv much more efficiently. Specifically, they have set the following requirements:

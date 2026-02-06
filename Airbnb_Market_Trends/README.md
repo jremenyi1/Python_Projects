@@ -4,7 +4,7 @@ New York City has a variety of Airbnb listings to meet the high demand for tempo
 
 
 ## Data
-There are three files in the data folder:
+There are three raw data files in the data folder:
 - airbnb_price.csv
 - airbnb_room_type.xlsx
 - airbnb_last_review.tsv.

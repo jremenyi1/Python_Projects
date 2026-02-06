@@ -19,7 +19,7 @@ The Head Data Scientist at Training Data Ltd. has asked you to create a DataFram
 If you call .info() or .memory_usage() methods on ds_jobs and ds_jobs_transformed after you've preprocessed it, you should notice a substantial decrease in memory usage.
 
 ## Result
-The memory usage substatially decreased from 2.0+MB to 69.1kB after preprocessing.
+The memory usage substatially decreased from 2.0+MB to 69.1kB after preprocessing the data for modeling.
 
 ## Files in the Repository
 - Jupyter Notebook - notebook.ipynb

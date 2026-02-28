@@ -75,8 +75,9 @@ Cleaning steps:
 This supports spatial comparison of overflow patterns.
 
 ### 3. Network Type (network_wwtw)
-•	Contained only two valid categories
-•	Included 4 missing values
+-	Contained only two valid categories
+-	Included 4 missing values
+
 **Cleaning decision:**
 
 Rows with missing values were dropped due to their small number and limited analytical value. The column was then converted to category.
@@ -87,6 +88,7 @@ The number_days_with_data column initially contained invalid values, including:
 -	"Not required"
 -	Blank spaces
 -	An implausible numeric value (435456)
+
 **Cleaning decision:**
 
 These records were filtered out, as they would distort any time-based or completeness analysis.
@@ -101,6 +103,7 @@ Three columns were analysed together:
 
 Some records contained the strings "No Data" or "No Events" instead of timestamps.
 Cross-checking confirmed that these records lacked valid data across all three fields.
+
 **Cleaning decision:**
 
 These rows were removed from the dataset.
@@ -135,12 +138,13 @@ The comments column:
 Because comments are optional and qualitative, the column was kept unchanged for contextual reference rather than quantitative analysis.
 
 ## Final Cleaned Dataset Summary
-After all cleaning steps, the final dataset contained:
+**After all cleaning steps, the final dataset contained:**
 -	9,556 rows
 -	13 well-defined columns
 -	No invalid dates or durations
 -	Appropriate datatypes for all variables
-Key datatypes included:
+
+**Key datatypes included:**
 -	datetime64[ns] for timestamps
 -	timedelta64[ns] for durations
 -	category for grouping variables

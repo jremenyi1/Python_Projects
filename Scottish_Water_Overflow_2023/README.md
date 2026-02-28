@@ -7,7 +7,7 @@ All cleaning steps were done in Python and are fully reproducible using the atta
 Attached files:
 -	Raw dataset: scottishWaterData2023.csv
 -	Cleaned dataset: scottish_water2023_clean.csv
--	Python notebook: Overflow2023_submission_week2.ipynb
+-	Python notebook: Overflow2023.ipynb
 
 ## Data Loading and Initial Challenges
 ### 1. Importing Libraries and Dataset

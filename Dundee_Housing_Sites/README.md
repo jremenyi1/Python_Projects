@@ -83,9 +83,14 @@ This project illustrates why automation is essential for reliable data cleaning 
 Manual workflows support exploration, but automated pipelines provide the consistency and scalability required for professional data work.
 
 ## Files in the Repository
-- housingSites.csv
--
--
--
-
+- raw data - housingSites.csv
+- cleaned datasets
+  - housing_sites_manual_cleaned.csv
+  - housing_sites_automation_cleaned.csv
+- additional output files from automated workflow
+  - single_metrics.csv – summary statistics
+  - cum_capacity_by_tenure.csv – site capacity by tenure type
+- jupyter notebooks
+  - HousingSites_Manual_DataCleaning.ipynb
+  - HousingSites_Automation_DataCleaning.ipynb
 

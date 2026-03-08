@@ -1,16 +1,18 @@
 # Dundee Housing Sites Dataset - Manual vs Automated Data Cleaning with Python
 
-## Overview
+## Background Information
+
+The dataset contains information on housing development sites in Dundee, including tenure types, site capacity, planning status, and projected housing delivery between 2024 and 2027.
+
+## Aim
 
 This project compares **manual data cleaning** with a **fully automated data-cleaning** workflow using the same real-world housing dataset.
 
 The aim is to demonstrate how automation improves consistency, reproducibility, and scalability in data analysis while producing the same analytical insights.
 
-The dataset contains information on housing development sites in Dundee, including tenure types, site capacity, planning status, and projected housing delivery between 2024 and 2027.
+## Data
 
-## Dataset Description
-
-The housingSites.csv dataset includes 183 housing sites and 40 columns describing:
+The raw data, housingSites.csv dataset, includes 183 housing sites and 40 columns describing:
 
 - Site address and developer
 - Tenure type

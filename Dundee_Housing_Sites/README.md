@@ -2,7 +2,7 @@
 
 ## Background Information
 
-The dataset contains information on housing development sites in Dundee, including tenure types, site capacity, planning status, and projected housing delivery between 2024 and 2027.
+The dataset contains information on housing development sites in Dundee, including tenure types, site capacity, planning status, and projected housing delivery between 2024 and 2034.
 
 ## Aim
 
@@ -18,7 +18,7 @@ The raw data, housingSites.csv dataset, includes 183 housing sites and 40 column
 - Tenure type
 - Site status (e.g. Under Construction)
 - Site capacity
-- Projected housing builds (2024–2027)
+- Projected housing builds (2024–20234)
 
 This type of data is commonly used for housing supply forecasting, planning analysis, and policy support.
 

@@ -63,6 +63,10 @@ To answer these, the project generates:
 - bar charts comparing counts by area
 - boxplots showing how protection timing differs between areas
 
+Visualisations are generated for:
+-	the full dataset
+-	a filtered dataset containing only areas with more than one TPO (to reduce noise)
+
 Charts are automatically saved as **PDF** and **JPEG** files.
 
 ## Key Insights

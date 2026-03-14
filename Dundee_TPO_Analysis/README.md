@@ -4,6 +4,8 @@
 
 For this analysis I used the **Tree Preservation Order (TPO) data for Dundee**. TPOs are legal measures, which are used to protect trees that are considered important for environmental or community reasons.
 
+This project shows how Python can be used to deliver reliable insights that support real-world decision-making.
+
 ## Aim
 
 The main aim of the project to understand:
@@ -15,7 +17,7 @@ This project demonstrates my shift from manual, exploratory data analysis - data
 
 ## Data
 
-The dataset contains records of Tree Preservation Orders issued in Dundee between 1982 and 2023.
+The raw dataset, TPODundeeData.csv, contains records of Tree Preservation Orders issued in Dundee between 1982 and 2023.
 
 - Time range: 1982–2023
 - One row per TPO
@@ -65,12 +67,36 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 
 ## Key Insights
 
-## Trends Over Time
+### Trends Over Time
 
-- TPO activity peaks between 2001 and 2014
+- TPO activity peaks between **2001 and 2014**
 - After 2014, new TPOs become much less frequent
 - Earlier periods of higher activity are also visible in the 1980s and early 1990s
 
+### Area-Level Differences
 
+- TPOs are unevenly distributed across Dundee
+- A small number of areas account for most protections
+- Broad area labels dominate the dataset, which affects precision
+
+### Timing Differences by Area
+
+- Some areas show protection activity over many years
+- Others have TPOs concentrated in shorter time periods
+- This may reflect differences in local development pressure or planning focus
+
+## Limitations
+
+- Area names are inconsistent and sometimes too broad
+- Records labelled only as “Dundee” may cover multiple locations
+- Address-based grouping is less accurate than spatial analysis
+- GIS tools would provide more precise geographic insights
+- Understanding these limits is important when interpreting the results.
+
+## Next Steps
+
+- Improve area classification using full address fields
+- Add map-based analysis
+- Extend the workflow to support regular data updates
 
 ## Files in the Repository

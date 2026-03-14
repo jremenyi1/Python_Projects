@@ -2,7 +2,7 @@
 
 ## Background Information
 
-For this analysis I used the Tree Preservation Order (TPO) data for Dundee. TPOs are legal measures, which are used to protect trees that are considered important for environmental or community reasons.
+For this analysis I used the **Tree Preservation Order (TPO) data for Dundee**. TPOs are legal measures, which are used to protect trees that are considered important for environmental or community reasons.
 
 ## Aim
 
@@ -11,7 +11,7 @@ The main aim of the project to understand:
 - how tree protection has changed over time and
 - how it varies across different areas.
 
-Ths project demonstrates my shift from manual, exploratory data analysis - data cleaning, validation, exploratory analysis, and visual communication - toward **reproducible and scalable data workflows**.
+This project demonstrates my shift from manual, exploratory data analysis - data cleaning, validation, exploratory analysis, and visual communication - toward **reproducible and scalable data workflows**.
 
 ## Data
 

@@ -71,23 +71,23 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 
 - TPO activity peaks between **2001 and 2014**
 
-<img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_trend_Original%20data.jpg" />
+<img width="760" height="540" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_trend_Original%20data.jpg" />
 
 - After 2014, new TPOs become much less frequent
 - Earlier periods of higher activity are also visible in the 1980s and early 1990s
 
-<img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_trend_Filtered%20data.jpg" />
+<img width="760" height="540" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_trend_Filtered%20data.jpg" />
 
 ### Area-Level Differences
 
 - TPOs are unevenly distributed across Dundee
 
-<img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_area_bar_Original%20Data.jpg" />
+<img width="760" height="540" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_area_bar_Original%20Data.jpg" />
 
 - A small number of areas account for most protections
 - Broad area labels dominate the dataset, which affects precision
 
-<img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_area_bar_Filtered%20Data.jpg?raw=true" />
+<img width="760" height="540" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_area_bar_Filtered%20Data.jpg?raw=true" />
 
 ### Timing Differences by Area
 
@@ -98,7 +98,7 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 - Others have TPOs concentrated in shorter time periods
 - This may reflect differences in local development pressure or planning focus
 
-<img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_are_box_Filtered%20Data.jpg?raw=true" />
+<img width="760" height="540" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_are_box_Filtered%20Data.jpg?raw=true" />
 
 ## Limitations
 

@@ -92,10 +92,14 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 ### Timing Differences by Area
 
 - Some areas show protection activity over many years
+
+<img width="600" height="425" alt="image" src="" />
+
+
 - Others have TPOs concentrated in shorter time periods
 - This may reflect differences in local development pressure or planning focus
 
-
+<img width="600" height="425" alt="image" src="" />
 
 ## Limitations
 

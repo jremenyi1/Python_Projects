@@ -8,7 +8,7 @@ This project shows how Python can be used to deliver reliable insights that supp
 
 ## Aim
 
-The main aim of the project to understand:
+The main aim of the project is to understand:
 
 - how tree protection has changed over time and
 - how it varies across different areas.

@@ -98,7 +98,7 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 - Others have TPOs concentrated in shorter time periods
 - This may reflect differences in local development pressure or planning focus
 
-<img width="600" height="425" alt="image" src="" />
+<img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_are_box_Filtered%20Data.jpg?raw=true" />
 
 ## Limitations
 

@@ -87,6 +87,8 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 - A small number of areas account for most protections
 - Broad area labels dominate the dataset, which affects precision
 
+<img width="600" height="425" alt="image" src="" />
+
 ### Timing Differences by Area
 
 - Some areas show protection activity over many years

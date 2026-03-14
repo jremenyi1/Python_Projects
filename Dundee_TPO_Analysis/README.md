@@ -74,7 +74,7 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 - Earlier periods of higher activity are also visible in the 1980s and early 1990s
 
 
-<img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/57165712-7c5e-451d-9bbf-bb5c09aa81a0" />
+<img width="600" height="425" alt="image" src="[https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_trend_Filtered%20data.jpg]" />
 
 ### Area-Level Differences
 

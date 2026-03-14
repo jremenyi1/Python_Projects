@@ -73,7 +73,6 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 
 <img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_trend_Original%20data.jpg" />
 
-  
 - After 2014, new TPOs become much less frequent
 - Earlier periods of higher activity are also visible in the 1980s and early 1990s
 
@@ -82,6 +81,9 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 ### Area-Level Differences
 
 - TPOs are unevenly distributed across Dundee
+
+<img width="600" height="425" alt="image" src="" />
+
 - A small number of areas account for most protections
 - Broad area labels dominate the dataset, which affects precision
 

@@ -102,7 +102,14 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 - Extend the workflow to support regular data updates
 
 ## Files in the Repository
+
 - raw data - TPODundeeData.csv
 - cleaned data - cleanedTPODataDundee.csv
 - jupyter notebook - Dundee_TPO_Visualisation_Automation.ipynb
 - output files 
+ - TPO_trends_Original data.pdf and TPO_trends_Original data.jpg
+ - TPO_trends_Filtered data.pdf and TPO_trends_Filtered data.jpg
+ - TPO_area_bar_Original Data.pdf and TPO_area_bar_Original Data.jpg
+ - TPO_area_bar_Filtered Data.pdf and TPO_area_bar_Filtered Data.jpg
+ - TPO_area_box_Original Data.pdf and TPO_area_box_Original Data.jpg
+ - TPO_area_box_Filtered Data.pdf and TPO_area_box_Filtered Data.jpg

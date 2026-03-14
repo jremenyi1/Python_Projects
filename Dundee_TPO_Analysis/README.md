@@ -93,7 +93,7 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 
 - Some areas show protection activity over many years
 
-<img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_are_box_Original%20Data.jpg?raw=true" />
+<img width="760" height="540" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_are_box_Original%20Data.jpg?raw=true" />
 
 - Others have TPOs concentrated in shorter time periods
 - This may reflect differences in local development pressure or planning focus

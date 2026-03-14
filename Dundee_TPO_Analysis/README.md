@@ -87,7 +87,7 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 - A small number of areas account for most protections
 - Broad area labels dominate the dataset, which affects precision
 
-<img width="600" height="425" alt="image" src="" />
+<img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_area_bar_Filtered%20Data.jpg?raw=true" />
 
 ### Timing Differences by Area
 

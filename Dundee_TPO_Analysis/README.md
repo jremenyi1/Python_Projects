@@ -73,7 +73,7 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 - After 2014, new TPOs become much less frequent
 - Earlier periods of higher activity are also visible in the 1980s and early 1990s
 
-![Alt Text]([images/screenshot.png](https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_trend_Original%20data.jpg))
+
 
 ### Area-Level Differences
 

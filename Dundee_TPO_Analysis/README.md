@@ -73,7 +73,7 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 - After 2014, new TPOs become much less frequent
 - Earlier periods of higher activity are also visible in the 1980s and early 1990s
 
-
+ 
 
 ### Area-Level Differences
 

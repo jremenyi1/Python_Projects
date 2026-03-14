@@ -71,7 +71,7 @@ Charts are automatically saved as **PDF** and **JPEG** files.
 
 - TPO activity peaks between **2001 and 2014**
 
-<img width="600" height="425" alt="image" src="" />
+<img width="600" height="425" alt="image" src="https://github.com/jremenyi1/Python_Projects/blob/main/Dundee_TPO_Analysis/jpeg_files/TPO_trend_Original%20data.jpg?raw=true" />
 
   
 - After 2014, new TPOs become much less frequent

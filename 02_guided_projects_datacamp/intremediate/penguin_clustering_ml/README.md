@@ -28,11 +28,11 @@ The dataset is sourced from artwork and data by **Allison Horst.**
 
 ## Data
 
-••raw data•• – `penguins.csv`
+**raw data** – `penguins.csv`
 
 The dataset contains measurements from Antarctic penguins.
 
-••Features used:••
+**Features used:**
 
 - Culmen length (mm)
 - Culmen depth (mm)

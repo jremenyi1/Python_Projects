@@ -32,13 +32,6 @@ The target variable is **rental duration**, calculated as the difference between
 
 ## Methods
 
-- Performed exploratory data analysis and data validation
-- Engineered the target variable from date-time columns
-- Created binary indicators from special feature metadata
-- Compared multiple regression models using pipelines
-- Evaluated models using **Mean Squared Error (MSE)**
-- Applied cross-validation to assess linear model stability
-
 The following regression models were evaluated:
 
 - Linear Regression  
@@ -59,7 +52,6 @@ Key preprocessing steps include:
 
 ## Evaluation Metric
 Models were evaluated using **Mean Squared Error (MSE)**, with a business constraint of **MSE ≤ 3**.  
-Root Mean Squared Error (RMSE) was also calculated to improve interpretability in real-world units (days).
 
 ---
 
@@ -112,9 +104,9 @@ This project demonstrates practical model comparison, evaluation under constrain
 
 ## Files in the Repository
 
-- **Project overview** – `README.md`
-- **Jupyter Notebook** – `notebook.ipynb`
-- **Dataset** – `rental_info.csv`
+- **project overview** – `README.md`
+- **jupyter notebook** – `notebook.ipynb`
+- **dataset** – `rental_info.csv`
 - **jpg image** - dvd_image.jpg
 
 ---
